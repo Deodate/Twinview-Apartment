@@ -25,6 +25,9 @@ function Navbar() {
                                 <a class="nav-link" href="#">Contact Us</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="#">Kigali</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="#">Photo Gallary</a>
                             </li>
                         </ul>
